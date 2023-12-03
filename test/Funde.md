@@ -1,7 +1,7 @@
 ---
 title: Funde
 layout: default
-parent: taraxacum
+parent: Löwenzahn
 ---
 Eine Liste meiner Funde.
 
