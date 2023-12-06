@@ -1,5 +1,5 @@
 ---
-title: Taraxacum amplum
+title: amplum
 layout: default
 ---
 Fund 008
