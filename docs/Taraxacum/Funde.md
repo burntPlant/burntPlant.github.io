@@ -5,6 +5,6 @@ parent: Löwenzahn
 ---
 Eine Liste meiner Funde.
 
-[Taraxacum amplum]({{ "/docs/Taraxacum/T. amplum.md" }}/)
+[Taraxacum amplum]({{ "/docs/Taraxacum/amplum.md" }}/)
 
-[Taraxacum hamatulum]({{ "/docs/Taraxacum/T. hamatulum.md" }}/)
+[Taraxacum hamatulum]({{ "/docs/Taraxacum/hamatulum.md" }}/)
