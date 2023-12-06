@@ -1,8 +1,8 @@
 ---
 title: Taraxacum hamatulum
-layout: minimal
+layout: default
 ---
 
-{% include image-gallery.html folder='/assets/images/Fund_2023_006' %}
+{% include image-gallery.html folder='/assets/images/Löwenzahn/Fund_2023-006' %}
 
 ----
